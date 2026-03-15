@@ -15,15 +15,15 @@ function App() {
 
       <ul>
         <ContactCard
-          name="Sunita Kumar"
+          name="Megumi Fushiguro"
           job="Electrical Engineer"
-          email="sunita.kumar@acme.co"
+          email="Megimi@gmail.com"
         />
 
         <ContactCard
-          name="David Lee"
+          name="Ray Rafael"
           job="Software Developer"
-          email="david.lee@acme.co"
+          email="ray@gmail.com"
         />
       </ul>
 
